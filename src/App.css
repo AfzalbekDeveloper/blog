@@ -1,0 +1,78 @@
+.upper{
+    background-color: rgb(50, 49, 49);
+    width: 100%;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+}
+.rightside{
+    color: #fff;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.leftside{
+    margin-top: 10px;
+    margin-right: 100px;
+}
+.navbarUl{
+        display: flex;
+}
+.navbarli{
+    list-style: none;
+
+}
+.navbarA{
+    text-decoration: none;
+    color: rgb(149, 144, 144);
+    padding-left: 30px;
+    transition: 0.5s;
+}
+.navbarA:hover{
+    cursor: pointer;
+    color: #fff;
+}
+.mute{
+    color: #fff;
+}
+header{
+    text-align: center;
+    width: 100%;
+    height: 280px;
+    background-color: #f8f9fa;
+}
+.headerText{
+    padding-top: 100px;
+}
+.flexContent{
+    display: flex;
+    justify-content: space-around;
+    
+    margin: 50px 150px;
+}
+.rightFlex{
+    margin-left: 15px;
+}
+.cardBig{
+   
+    height: 560px;
+    border: 1px solid rgba(0, 0, 0, 0.175);
+    border-radius: 5px;
+}
+.dateBig{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.bigH1{
+    margin-top: -10px;
+    margin-left: 20px;
+}
+.bigP{
+    margin-left: 20px;
+}
+.firstBtn{
+    margin-left: 20px;
+}
+.obshiy{
+    margin-top: 50px;
+}
